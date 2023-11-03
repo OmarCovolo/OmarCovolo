@@ -1,4 +1,4 @@
-![GitHub Logo]([https://github.githubassets.com/images/modules/logos_page/Octocat.png](https://www.linkedin.com/in/omar-covolo-043a17245/overlay/background-image/))
+![GitHub Logo](https://media.licdn.com/media/AAYQAQSOAAgAAQAAAAAAAB-zrMZEDXI2T62PSuT6kpB6qg.png)
 
 ### Hi there 👋
 
