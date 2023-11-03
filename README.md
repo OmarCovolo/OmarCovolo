@@ -1,6 +1,7 @@
-![GitHub Logo](https://assets.bitdegree.org/online-learning-platforms/storage/media/2018/11/What-Is-A-Full-Stack-Developer-and-Everything-You-Need-to-Know-to-Start.jpg)
 
 ### Hi there 👋
+
+![GitHub Logo](https://assets.bitdegree.org/online-learning-platforms/storage/media/2018/11/What-Is-A-Full-Stack-Developer-and-Everything-You-Need-to-Know-to-Start.jpg)
 
 Over the past six months, I have embraced an exciting journey into the world of Full Stack Web Development.
 
