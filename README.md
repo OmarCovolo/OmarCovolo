@@ -1,3 +1,5 @@
+![GitHub Logo]([https://github.githubassets.com/images/modules/logos_page/Octocat.png](https://www.linkedin.com/in/omar-covolo-043a17245/overlay/background-image/))
+
 ### Hi there 👋
 
 Over the past six months, I have embraced an exciting journey into the world of Full Stack Web Development.
