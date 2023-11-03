@@ -1,8 +1,6 @@
 
 ### Hi there 👋
 
-![GitHub Logo](https://assets.bitdegree.org/online-learning-platforms/storage/media/2018/11/What-Is-A-Full-Stack-Developer-and-Everything-You-Need-to-Know-to-Start.jpg)
-
 Over the past six months, I have embraced an exciting journey into the world of Full Stack Web Development.
 
 This experience was an engaging mix of in-person lessons, engaging individual and group exercises, which allowed the creation of a solid base of skills in the field of web development.
@@ -11,6 +9,8 @@ I've had the pleasure of immersing myself in programming languages ​​like Ja
 In the backend, I made use of Eclipse to manage and create APIs combining PostgreSQL for database management.
 
 This path has enriched my knowledge and passion for the world of web development.
+
+![GitHub Logo](https://assets.bitdegree.org/online-learning-platforms/storage/media/2018/11/What-Is-A-Full-Stack-Developer-and-Everything-You-Need-to-Know-to-Start.jpg)
 
 - 🔭 I’m currently working on: Exciting personal projects that challenge my web development skills and creativity.
 
